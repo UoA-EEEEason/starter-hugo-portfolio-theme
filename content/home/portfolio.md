@@ -28,11 +28,11 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
+    - name: 项目经历
       tag: ML
-    - name: Computer Vision
+    - name: 作品
       tag: CV
-    - name: NLP
+    - name: 论文
       tag: NLP
 
 design:

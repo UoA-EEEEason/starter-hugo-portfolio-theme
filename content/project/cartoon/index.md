@@ -1,5 +1,5 @@
 ---
-title: Cartoon Face Generator
+title: 作品1
 summary: Write about your project here...
 tags:
   - CV
