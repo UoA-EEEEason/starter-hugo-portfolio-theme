@@ -32,7 +32,7 @@ content:
       tag: ML
     - name: 作品
       tag: CV
-    - name: 论文
+    - name: Personal Video
       tag: NLP
 
 design:
