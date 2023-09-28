@@ -28,10 +28,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: 项目经历
+    - name: Project experience
       tag: ML
-    - name: 作品
+    - name: Intern experience
       tag: CV
+    - name: Publication
+      tag: NLP
     - name: Personal Video
       tag: NLP
 
