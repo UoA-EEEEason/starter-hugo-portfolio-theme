@@ -28,13 +28,13 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Project experience
+    - name: VLOG
       tag: ML
     - name: Intern experience
       tag: CV
     - name: Publication
       tag: NLP
-    - name: Personal Video
+    - name: Publication
       tag: NLP
 
 design:
