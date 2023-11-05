@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yijun Wang (王怡珺)
+title: Ejune (王怡珺)
 
 # Is this the primary user of the site?
 superuser: true
@@ -66,6 +66,6 @@ bio: My research interests include distributed robotics, mobile computing and pr
 #email: ""
 ---
 
-Yijun Wang is a bachelor of Networks and New Media at the Guangdong University of Foreign Studies. Her research interests include 1, 2 and 3. She leads the 4 group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ejune Wang is a bachelor of Networks and New Media at the Guangdong University of Foreign Studies. Her research interests include 1, 2 and 3. She leads the 4 group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/WYJ-CV.pdf" "newtab" >}}Download{{< /staticref >}} my CV as a PDF.

@@ -1,8 +1,8 @@
 ---
-title: 项目经历1
+title: 市场策划1
 summary: Write about your project here...Write about your project here...Write about your project here...
 tags:
-  - ML
+  - MP
 date: 2022-01-01
 external_link: http://github.com
 ---

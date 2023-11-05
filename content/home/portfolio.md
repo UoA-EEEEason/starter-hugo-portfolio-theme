@@ -28,17 +28,17 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: VLOG
-      tag: ML
-    - name: Intern experience
-      tag: CV
-    - name: Publication
-      tag: NLP
-    - name: Publication
-      tag: NLP
+    - name: Short Video
+      tag: SV
+    - name: Essay
+      tag: ES
+    - name: Graphic Design
+      tag: GD
+    - name: Marketing Proposal
+      tag: MP
 
 design:
-  columns: '1'
+  columns: '5'
   view: masonry
   flip_alt_rows: true
   background: {}
