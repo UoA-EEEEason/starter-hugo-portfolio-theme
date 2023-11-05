@@ -38,7 +38,7 @@ content:
       tag: MP
 
 design:
-  columns: '5'
+  columns: '1'
   view: masonry
   flip_alt_rows: true
   background: {}
