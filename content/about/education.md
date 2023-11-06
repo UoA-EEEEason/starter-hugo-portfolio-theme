@@ -26,7 +26,7 @@ experience:
     company: Guangdong University of Foreign Studies
     company_url: ''
     company_logo: org-x
-    location: China
+    location: Guangzhou, China
     date_start: '2020-09-01'
     description: |2-
         * GPA: 3.89 & ILETS: 7.0
