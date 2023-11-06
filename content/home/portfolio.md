@@ -43,5 +43,5 @@ design:
   flip_alt_rows: true
   background: {}
   spacing: 
-    {margin: [0, 0, 50px, 0]}
+    margin: [50px, 50px, 50px, 50px]
 ---
