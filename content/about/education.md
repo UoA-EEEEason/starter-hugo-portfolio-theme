@@ -26,7 +26,7 @@ experience:
     company: Guangdong University of Foreign Studies
     company_url: ''
     company_logo: org-x
-    location: California
+    location: China
     date_start: '2021-01-01'
     date_end: '2022-01-01'
     description: |2-
