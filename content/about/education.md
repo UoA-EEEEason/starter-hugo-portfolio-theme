@@ -27,8 +27,8 @@ experience:
     company_url: ''
     company_logo: org-x
     location: China
-    date_start: '2021-01-01'
-    date_end: '2022-01-01'
+    date_start: '2020-09-01'
+    date_end: '2024-06-31'
     description: |2-
         * Dissertation on Y
         * Basketball team
