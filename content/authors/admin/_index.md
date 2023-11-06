@@ -39,12 +39,12 @@ bio: My research interests include distributed robotics, mobile computing and pr
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: linkedin
-    icon_pack: fab
-    link: www.linkedin.com/in/怡珺-王-0053a7211
   - icon: bilibili
     icon_pack: fab
     link: https://space.bilibili.com/399794321?spm_id_from=333.1296.0.0
+  - icon: linkedin
+    icon_pack: fab
+    link: www.linkedin.com/in/怡珺-王-0053a7211
   - icon: facebook
     icon_pack: fab
     link: https://www.facebook.com/profile.php?id=100038622847040
@@ -66,5 +66,7 @@ social:
 I’m Ejune, a Networks and New Media Bachelor.
 
 I believe there's a saying that's very apt for me, namely, it’s tough to be me and it’s tough not to be me.
+
+Skills: Ps, H5, Pr, Office, Photography, Performance, Iteration, Graphic Design, Data Analysis, UI Design
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/WYJ-CV.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.

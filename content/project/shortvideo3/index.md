@@ -1,6 +1,6 @@
 ---
 title: I Like For You To Be Still
-summary: This work is inspired by the poem "I Like For You To Be Still" by Chilean poet Pablo Neruda.
+summary: Tribute to Neruda | Original Emotional Poetry Short Film
 weight: 300
 tags:
   - SV

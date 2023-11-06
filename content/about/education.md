@@ -23,14 +23,17 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Networks and New Media Bachelor
-    company: Guangdong University of Foreign Studies
+    company: Guangdong University of Foreign Studies South China Business College
     company_url: ''
     company_logo: org-x
     location: Guangzhou, China
     date_start: '2020-09-01'
     description: |2-
-        * GPA: 3.89 & ILETS: 7.0
-        * Web Design and Production, Social Psychology
+        * GPA: 3.89/4.0 & ILETS: 7.0(6.5)
+        * Web Design and Production
+        * Journalism and Communication
+        * photography production
+        * Social Psychology
         * Advertising & Graphic Design
 
 design:

@@ -33,9 +33,9 @@ item:
     organization: The 2020-2021 academic year student scholarship assessment
     title: Student representative
   - date_end: ''
-    date_start: '2022-09-01'
-    organization: School of New Media and International Communication
-    title: Outstanding Communist Youth League member
+    date_start: '2023-09-01'
+    organization: The 15th National Student Advertising Art Competition
+    title: The Third Prize of Guangdong Region
 
 design:
   columns: '1'
