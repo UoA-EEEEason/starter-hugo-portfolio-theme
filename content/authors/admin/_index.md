@@ -44,10 +44,10 @@ social:
     link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
   - icon: bilibili
     icon_pack: fab
-    link: https://twitter.com/wowchemy
+    link: https://space.bilibili.com/399794321?spm_id_from=333.1296.0.0
   - icon: facebook
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://www.facebook.com/profile.php?id=100038622847040
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
@@ -63,7 +63,7 @@ social:
 #email: ""
 ---
 
-Hi, there! I’m Ejune, a Networks and New Media Bachelor.
+I’m Ejune, a Networks and New Media Bachelor.
 
 I believe there's a saying that's very apt for me, namely, it’s tough to be me and it’s tough not to be me.
 
