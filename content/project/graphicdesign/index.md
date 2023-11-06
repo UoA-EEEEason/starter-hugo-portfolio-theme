@@ -1,5 +1,5 @@
 ---
-title: 平面设计1
+title: Graphic Design
 summary: Write about your project here...
 weight: 700
 tags:

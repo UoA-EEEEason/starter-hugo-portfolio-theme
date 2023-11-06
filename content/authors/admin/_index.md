@@ -42,10 +42,10 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
+  - icon: bilibili
     icon_pack: fab
     link: https://twitter.com/wowchemy
-  - icon: instagram
+  - icon: facebook
     icon_pack: fab
     link: https://instagram.com/geocushen
 # Uncomment below for Github link
@@ -63,7 +63,8 @@ social:
 #email: ""
 ---
 
-Hi, there! I’m Ejune, a Networks and New Media Bachelor. 
+Hi, there! I’m Ejune, a Networks and New Media Bachelor.
+
 I believe there's a saying that's very apt for me, namely, it’s tough to be me and it’s tough not to be me.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/WYJ-CV.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
