@@ -5,5 +5,5 @@ weight: 400
 tags:
   - ES
 date: 2022-01-01
-external_link: http://github.com
+external_link: uploads/WYJ-CV.pdf
 ---
