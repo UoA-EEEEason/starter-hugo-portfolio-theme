@@ -1,12 +1,16 @@
 ---
 # Display name
-title: Ejune Wang（王怡珺）
+title: Ejune（王怡珺）
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
 role: ''
+
+# Status emoji
+status:
+  icon:
 
 # Organizations/Affiliations
 #organizations:
