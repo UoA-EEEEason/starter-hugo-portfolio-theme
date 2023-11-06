@@ -44,4 +44,5 @@ design:
   background: {}
   spacing: 
     {padding: [0, 0, 0, 0]}
+  margin-bottom: 20px;
 ---
