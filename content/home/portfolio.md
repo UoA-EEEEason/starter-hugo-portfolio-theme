@@ -36,7 +36,6 @@ content:
       tag: GD
     - name: Marketing Proposal
       tag: MP
-  order: desc
 
 design:
   columns: '1'
