@@ -7,6 +7,6 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: My CV
+  - name: Resumé
     url: about/
     weight: 20
