@@ -42,4 +42,7 @@ design:
   view: card
   flip_alt_rows: true
   background: {}
+  spacing:
+    padding-top: 50
+    padding-bottom: 50
 ---
