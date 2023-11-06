@@ -5,5 +5,5 @@ weight: 800
 tags:
   - MP
 date: 2022-01-01
-external_link: uploads/Marketing Proposal.pdf
+external_link: uploads/Marketing Proposal Portfolio.pdf
 ---
