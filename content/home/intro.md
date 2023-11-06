@@ -19,6 +19,8 @@ author: admin
 ---
 
 👋 Hi, there! I'm **Ejune**, a Networks and New Media Bachelor.
+{style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
+
 I believe there's a saying that's very apt for me, namely, it’s tough to be me and it’s tough not to be me.
 {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
