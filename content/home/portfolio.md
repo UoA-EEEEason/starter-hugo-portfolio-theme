@@ -36,13 +36,12 @@ content:
       tag: GD
     - name: Marketing Proposal
       tag: MP
+  order: desc
 
 design:
   columns: '1'
   view: card
   flip_alt_rows: true
   background: {}
-  spacing:
-    padding-top: 50
-    padding-bottom: 50
+  spacing: {padding: [0, 0, 0, 0]}
 ---
