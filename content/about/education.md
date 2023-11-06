@@ -28,11 +28,11 @@ experience:
     company_logo: org-x
     location: China
     date_start: '2020-09-01'
-    date_end: '2024-06-31'
+    date_end: '2023-06-31'
     description: |2-
-        * Dissertation on Y
-        * Basketball team
-        * DJ club
+        * GPA: 3.89 & ILETS: 7.0
+        * Web Design and Production, Social Psychology
+        * Advertising & Graphic Design
 
 design:
   columns: '1'
