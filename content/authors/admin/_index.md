@@ -39,9 +39,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
+  - icon: linkedin
+    icon_pack: fab
+    link: www.linkedin.com/in/怡珺-王-0053a7211
   - icon: bilibili
     icon_pack: fab
     link: https://space.bilibili.com/399794321?spm_id_from=333.1296.0.0
