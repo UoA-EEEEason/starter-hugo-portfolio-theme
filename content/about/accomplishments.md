@@ -27,7 +27,7 @@ item:
     date_start: '2021-09-25'
     description: ''
     organization: The School of new media and international communication
-    title: The first-class Scholarship & "Three Good Student Model" personal honorary title
+    title: The first-class Scholarship & Three Good Student Model
   - date_end: ''
     date_start: '2021-09-01'
     organization: The 2020-2021 academic year student scholarship assessment
