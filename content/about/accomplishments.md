@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'HONORS & AWARDS'
 subtitle:
 
 # Date format
@@ -24,26 +24,18 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - date_end: ''
-    date_start: '2021-01-25'
+    date_start: '2021-09-25'
     description: ''
-    organization: Coursera
-    title: Neural Networks and Deep Learning
-  - certificate_url: https://www.edx.org
-    date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
-    url: ''
+    organization: The School of new media and international communication
+    title: The first-class Scholarship & "Three Good Student Model" personal honorary title
+  - date_end: ''
+    date_start: '2021-09-01'
+    organization: The 2020-2021 academic year student scholarship assessment
+    title: Student representative
+  - date_end: ''
+    date_start: '2022-09-01'
+    organization: School of New Media and International Communication
+    title: Outstanding Communist Youth League member
 
 design:
   columns: '1'

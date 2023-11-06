@@ -25,7 +25,7 @@ experience:
   - title: New media operations intern
     company: Benchmark Medical Co., Ltd
     company_url: ''
-    company_logo: org-gc
+    company_logo: org-x
     location: Guangzhou, China
     date_start: '2022-04-01'
     date_end: '2022-06-01'
@@ -38,7 +38,7 @@ experience:
   - title: Uploder of Bilibili
     company: Bilibili
     company_url: ''
-    company_logo: org-gc
+    company_logo: org-x
     location: Guangzhou, China
     date_start: '2021-05-01'
     date_end: '2022-05-31'
@@ -51,7 +51,7 @@ experience:
     company: School New Media Live Studio
     company_url: ''
     company_logo: org-x
-    location: California
+    location: Guangzhou, China
     date_start: '2022-02-01'
     date_end: '2022-08-31'
     description: |2-
