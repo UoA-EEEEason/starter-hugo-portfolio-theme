@@ -38,16 +38,16 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
-#   - icon: envelope
-#     icon_pack: fas
-#     link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-#   - icon: twitter
-#     icon_pack: fab
-#     link: https://twitter.com/wowchemy
-#   - icon: instagram
-#     icon_pack: fab
-#     link: https://instagram.com/geocushen
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/wowchemy
+  - icon: instagram
+    icon_pack: fab
+    link: https://instagram.com/geocushen
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
@@ -63,6 +63,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 #email: ""
 ---
 
-Ejune Wang is a bachelor of Networks and New Media at the Guangdong University of Foreign Studies. Her research interests include 1, 2 and 3. She leads the 4 group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi, there! I’m Ejune, a Networks and New Media Bachelor. 
+I believe there's a saying that's very apt for me, namely, it’s tough to be me and it’s tough not to be me.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/WYJ-CV.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
