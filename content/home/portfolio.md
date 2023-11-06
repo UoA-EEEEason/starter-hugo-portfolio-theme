@@ -42,6 +42,5 @@ design:
   view: card
   flip_alt_rows: true
   background: {}
-  spacing: 
-    margin: [50px, 50px, 50px, 50px]
+  spacing: {padding: ['20px', '0', '20px', '0']}
 ---
